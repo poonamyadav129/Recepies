@@ -3,4 +3,5 @@
 *pumpkin
 *sugar
 *egg
+*cinnamen
 ### Instruction
